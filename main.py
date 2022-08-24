@@ -1,11 +1,10 @@
-"""
-# My first app
-Here's our first attempt at using data to create a table:
-"""
-
+import os
 import streamlit as st
+import lyricsgenius as lg
 
 st.title('Bob Dylan Lyrics Generator')
+
+os.environ["GENIUS_ACCESS_TOKEN"] =  st.secrets["GENIUS_ACCESS_TOKEN"]
 
 import pandas as pd
 df = pd.DataFrame({
@@ -14,3 +13,5 @@ df = pd.DataFrame({
 })
 
 df
+
+genius = lg.Genius()
