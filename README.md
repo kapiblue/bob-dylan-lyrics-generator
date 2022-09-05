@@ -1,4 +1,4 @@
-# bob-dylan-lyrics-generator
+# Bob Dylan Lyrics Generator
 
 Please enjoy the generator of Bob Dylan's lyrics.
 
