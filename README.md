@@ -1,4 +1,4 @@
-![Alt text](portrait.jpeg "Bob Dylan")
+![alt text](portrait.jpeg)
 
 # Bob Dylan Lyrics Generator
 
