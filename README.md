@@ -1,3 +1,5 @@
+![Alt text](portrait.jpeg "Bob Dylan")
+
 # Bob Dylan Lyrics Generator
 
 Please enjoy the generator of Bob Dylan's lyrics.
